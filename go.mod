@@ -1,4 +1,4 @@
-module github.com/tmccombs/hcl2json
+module github.com/kishantm/hcljsonconverter2
 
 go 1.19
 
